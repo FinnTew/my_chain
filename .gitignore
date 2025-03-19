@@ -1,3 +1,4 @@
+/.idea
 /target
 /my_db
 /Cargo.lock
